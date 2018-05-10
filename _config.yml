@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "André Salerno, MSc"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/logo_as_partners.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Paraiba Valley, Brazil"
   email            : "andresalerno22@gmail.com"
