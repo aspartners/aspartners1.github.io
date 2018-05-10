@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "AS Partners Finance & Tech Consulting"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "André Salerno, MSc"
+description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,36 +84,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "André Salerno, MSc"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Data Science Portfolio"
+  location         : "Paraiba Valley, Brazil"
+  email            : "andresalerno22@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "@aspartnersconsultoria"
   foursquare       :
-  github           :
+  github           : "andresalerno"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "andresalerno" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "andresalerno"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UCMFEwuOftLL3CO8l91gTurQ" # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -253,3 +253,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+        layout: single
+        author_profile: true
