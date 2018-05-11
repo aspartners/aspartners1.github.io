@@ -6,7 +6,6 @@ header:
   image: "/images/perceptron/logo_as_partners.jpg"
 excerpt: "Machine Learning, Perceptron, Data Science"
 mathjax: "true"
-comments: "true"
 ---
 
 # H1 Heading
